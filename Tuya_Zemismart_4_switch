@@ -17,6 +17,8 @@
  *  https://github.com/AnotherUser17/SmartThingsPublic-1/blob/master/devicetypes/AnotherUser/osram-lightify-4x-switch.src/osram-lightify-4x-switch.groovy
  *	https://github.com/muxa/hubitat/blob/master/drivers/zemismart-zigbee-multigang-switch.groovy
  *
+ * A.neale: Adpated to 4 button, changed button order, corrected brackets for 'sendbuttonnumber' statement, changed manufacturer Id and added 4 button model number
+ *
  *  Version Author              Note
  *  0.2     A.Neale    Modified release
  *
